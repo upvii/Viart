@@ -16,4 +16,14 @@ body{
 
 .container{
    height: 100vh;
+   display: grid;
+   grid-template-columns: 50% 50%;
+}
+
+.container_botao{
+   background-color: #167BF7;
+   color: white;
+   border-radius: 5px;
+   padding: 20px;
+   display: block;
 }
