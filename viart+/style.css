@@ -6,6 +6,9 @@
 body{
    background-color:#7FB3F0; 
    color:#FFFFFF;
+   font-size: 25px;
+   font-weight: 800;
+
 }
 
 .principal{
@@ -26,4 +29,17 @@ body{
    border-radius: 5px;
    padding: 20px;
    display: block;
+   text-decoration: none;
+}
+
+.botao_secundario{
+   background-color: transparent;
+   border: 2px solid #167BF7;
+   color: white;
+   text-decoration: none;
+}
+
+.container_aviso{
+font-weight: 100 ;
+font-size: 10px ;
 }
