@@ -73,3 +73,14 @@ font-size: 10px ;
    font-size: 30px;
    font-weight: 800;
 }
+
+.container_descricao{
+   padding: 3em;
+}
+
+.botao_secundorio{
+   display: inline block;
+   padding: 1em;
+   margin-top: 1em;
+   background-color: #167BF7;
+}
